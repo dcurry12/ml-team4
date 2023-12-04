@@ -1,0 +1,22 @@
+ mallet_percussion: 715
+ flute: 649
+ piano: 623
+ organ: 607
+ saxophone: 534
+ accordion: 508
+ bass: 501
+ cymbals: 500
+ cello: 478
+ violin: 463
+ voice: 450
+ ukulele: 384
+ banjo: 374
+ synthesizer: 374
+ guitar: 344
+ drums: 334
+ trombone: 195
+ mandolin: 160
+ clarinet: 151
+ trumpet: 68
+
+Total Count of All Instruments: 8412
